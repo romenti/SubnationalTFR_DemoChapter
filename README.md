@@ -33,7 +33,7 @@ The repository contains all data required to reproduce the analysis, except for 
 #### Code 
 
 
-To run the code, you need to download the data folder from [Zotero](https://zenodo.org/records/24377315)
+To run the code, you need to download the data folder from the [Zotero](https://zenodo.org/records/24377315) repository.
 
 Researchers can run the following files individually in order: 
   
